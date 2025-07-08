@@ -5,6 +5,18 @@ This project takes a principal amount and an interest rate, and will output the 
 
 It includes a graphical representation of the compounding which demonstates the exponential nature of compound interest. It will also have a table for fast to find data.
 
+## ✅Installation and Run
+1. Install required packages:
+```bash
+pip install -r requirements.txt
+```
+### Streamlit Web App
+Launch the interactive web interface:
+```bash
+streamlit run app.py
+```
+
+
 ## 🤩 Highlights 
 - I have learnt how to use streamlit for a simple and user friendly interface.
 - Learned to use basic python pandas and plotly for data and visulisation. (I would love to develop this more in my next project)
